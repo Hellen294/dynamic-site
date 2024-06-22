@@ -1,0 +1,17 @@
+intranet/
+├── index.html
+├── signup.html
+├── verify.html
+├── personal.html
+├── central.html
+├── styles/
+│   ├── main.css
+├── scripts/
+│   ├── main.js
+│   ├── signup.js
+│   ├── verify.js
+│   ├── personal.js
+│   ├── central.js
+│   ├── chat.js
+└── data/
+    ├── users.json
